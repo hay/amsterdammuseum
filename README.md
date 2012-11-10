@@ -6,6 +6,7 @@ General info
 
 * Tools and datasets/XML dumps for the [Amsterdam Museum API](http://www.amsterdammuseum.nl/open-data)
 * "amsterdam-museum-complete.xml.zip" contains a complete dump of the collection from the Amsterdam Museum, downloaded at 10 november 2012, in XML OAI-PMH format.
+* Made by [https://github.com/valhallasw](Merlijn van Deen). Thanks!
 
 Stats on license status
 -----------------------
